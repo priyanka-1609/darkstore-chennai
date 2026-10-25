@@ -1,6 +1,8 @@
-streamlit
+streamlit>=1.40
 pandas
 numpy
-scipy
+ortools>=9.10
 pydeck
-pul
+altair
+scikit-learn
+jinja2
